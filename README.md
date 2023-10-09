@@ -132,3 +132,7 @@ def hapus_dari_keranjang():
 1. Menu Awal untuk Login User Admin dan Pembeli
 
 ![Cuplikan layar 2023-10-10 053534](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/2f12798e-162e-4267-a519-09b5bbb56aaa)
+
+2. Menu Admin yang terdapat Create, Read, Update, dan Delete
+
+![Cuplikan layar 2023-10-10 053659](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/5a7c08bc-e365-4ba1-8d4e-3eef5eadc73f)
