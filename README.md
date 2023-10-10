@@ -136,3 +136,23 @@ def hapus_dari_keranjang():
 2. Menu Admin yang terdapat Create, Read, Update, dan Delete
 
 ![Cuplikan layar 2023-10-10 053659](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/5a7c08bc-e365-4ba1-8d4e-3eef5eadc73f)
+
+3. Create Admin dapat menambahkan produk baru
+
+![Cuplikan layar 2023-10-10 055025](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/184bdd25-e6c8-485e-a1ed-f203379b97b8)
+
+4.Read Admin dapat melihat list barang yang ada ditoko
+
+![Cuplikan layar 2023-10-10 053950](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/48a8c970-8228-4cae-a089-1a5bda9af201)
+
+5. Update Admin dapat mengupdate display toko
+
+![Cuplikan layar 2023-10-10 104054](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/e5cc9905-7e74-427d-b9f9-3df06c404b74)
+
+6. Delete Admin dapat menghapus barang di display toko
+
+![Cuplikan layar 2023-10-10 055239](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/a12b5297-8a80-4bfd-8332-008ffcc25053)
+
+# Flowchart
+
+![Toko Pakaian (1)](https://github.com/DanilPrtmaa/Postest_2/assets/146010899/73138f63-dd45-42a8-a9ad-ce1d299aec90)
